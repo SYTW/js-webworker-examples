@@ -6,4 +6,4 @@ Ejemplo de uso de Web Workers. Para ejecutar este programa:
 * `npm run server`
 * Abra una nueva terminal/pestaña
 * Ejecute en la nueva pestaña: `npm test`
-* O bien visite [http://http://sytw.github.io/js-webworker-examples/index.html](http://http://sytw.github.io/js-webworker-examples/index.html)
+* O bien visite [http://sytw.github.io/js-webworker-examples/index.html](http://sytw.github.io/js-webworker-examples/index.html)
