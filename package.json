@@ -1,0 +1,15 @@
+{
+  "name": "web_workers_example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "open http://localhost:3000/index.html",
+    "server": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
